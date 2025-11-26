@@ -56,8 +56,14 @@
 	</p>
 
 <h4 align="center"> ➖ </h4>
+<h2 align="center">𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞</h2>
+<p align="center">
+	<a href="https://github.com/argoproj/argo-rollouts"><img src="https://img.shields.io/badge/ArgoRollouts-181717?style=flat-square&logo=Github&logoColor=white" style="height: 28px;"></a>
+	<a href="https://github.com/raycast"><img src="https://img.shields.io/badge/Raycast-181717?style=flat-square&logo=Github&logoColor=white" style="height: 28px;"></a>
+</p>
 
+<h4 align="center"> ➖ </h4>
 <h2 align="center">𝐂𝐨𝐧𝐭𝐚𝐜𝐭</h2>
 <p align="center">
-		<a href="mailto:dev.y0ngha@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.y0ngha@gmail.com" /></a>
+		<a href="mailto:dev.y0ngha@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.y0ngha@gmail.com" style="height: 28px;"></a>
 </p>
