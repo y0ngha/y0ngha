@@ -23,7 +23,6 @@
 
 <h2 align="center">𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞</h2>
 <p align="center">
-	<a href="https://github.com/argoproj/argo-rollouts"><img src="https://img.shields.io/badge/ArgoRollouts-181717?style=flat-square&logo=Github&logoColor=white" style="height: 28px;"></a>
 	<a href="https://github.com/raycast"><img src="https://img.shields.io/badge/Raycast-181717?style=flat-square&logo=Github&logoColor=white" style="height: 28px;"></a>
 </p>
 
