@@ -1,23 +1,26 @@
 
 <h2 align="center">𝐈 𝐀𝐌</h2>
-	<p style="font-size: 14px; color: black; margin-bottom: 0;" align="center">
-		𝚒𝚜 𝚝𝚑𝚒𝚗𝚔𝚜 𝚊𝚋𝚘𝚞𝚝 𝚝𝚑𝚎 𝚛𝚎𝚊𝚜𝚘𝚗𝚜 𝚏𝚘𝚛 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐, 𝚛𝚎𝚏𝚞𝚜𝚎𝚜 𝚝𝚘 𝚜𝚎𝚝𝚝𝚕𝚎 𝚏𝚘𝚛 𝚌𝚞𝚛𝚛𝚎𝚗𝚝, 𝚊𝚗𝚍 𝚜𝚝𝚛𝚒𝚟𝚎𝚜 𝚏𝚘𝚛 𝚐𝚛𝚘𝚠𝚝𝚑.
-		<p style="font-size: 10px; color: gray; margin-top: 2px;" align="center">
-			모든 것의 이유를 생각하고, 현재에 안주하지 않으며, 성장을 위해 노력합니다.
-		</p>
-	</p>
-	<p style="font-size: 14px; color: black; margin-bottom: 0;" align="center">
-		𝚒𝚜 𝚌𝚞𝚛𝚒𝚘𝚞𝚜 𝚊𝚗𝚍 𝚍𝚛𝚒𝚟𝚎𝚗 𝚋𝚢 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢, 𝚠𝚑𝚘 𝚎𝚗𝚓𝚘𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎.
-		<p style="font-size: 10px; color: gray; margin-top: 2px;" align="center">
-			호기심과 호기심에 이끌려 새로운 지식을 배우고 탐구하는 것을 즐깁니다.
-		</p>
-	</p>
-	<p style="font-size: 14px; color: black; margin-bottom: 0;" align="center">
-		𝚒𝚜 𝚠𝚛𝚒𝚝𝚎𝚜 𝚗𝚎𝚠 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢 𝚒𝚖𝚙𝚛𝚘𝚟𝚎
-		<p style="font-size: 10px; color: gray; margin-top: 2px;" align="center">
-			지속적으로 개선하기 위해 새로운 코드를 작성합니다.
-		</p>
-	</p>
+<p align="center"><b>Building products with AI, not just writing code.</b></p>
+<p align="center">
+   𝚃𝚑𝚒𝚗𝚔𝚜 𝚒𝚗 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚚𝚞𝚎𝚜𝚝𝚒𝚘𝚗𝚜 𝚊𝚜𝚜𝚞𝚖𝚙𝚝𝚒𝚘𝚗𝚜, 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚜 𝚋𝚎𝚝𝚝𝚎𝚛 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜.
+   <br>
+   <sub>모든 것의 이유를 고민하고, 더 나은 해결책을 설계합니다.</sub>
+</p>
+<p align="center">
+   𝙻𝚎𝚟𝚎𝚛𝚊𝚐𝚎𝚜 𝙰𝙸 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚏𝚊𝚜𝚝𝚎𝚛, 𝚕𝚎𝚊𝚛𝚗 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢, 𝚊𝚗𝚍 𝚜𝚑𝚒𝚙 𝚛𝚎𝚊𝚕 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜.
+   <br>
+   <sub>AI를 활용해 더 빠르게 배우고, 더 좋은 제품을 만듭니다.</sub>
+</p>
+<p align="center">
+   𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚎𝚜 𝚛𝚎𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝚠𝚘𝚛𝚔, 𝚏𝚘𝚌𝚞𝚜𝚎𝚜 𝚘𝚗 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚟𝚊𝚕𝚞𝚎.
+   <br>
+   <sub>반복 작업은 자동화하고, 가치 있는 일에 집중합니다.</sub>
+</p>
+<p align="center">
+   𝙱𝚎𝚕𝚒𝚎𝚟𝚎𝚜 𝚝𝚑𝚊𝚝 𝚐𝚛𝚎𝚊𝚝 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚒𝚜 𝚋𝚞𝚒𝚕𝚝 𝚋𝚢 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢, 𝚒𝚝𝚎𝚛𝚊𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚜𝚑𝚊𝚛𝚒𝚗𝚐.
+   <br>
+   <sub>좋은 소프트웨어는 호기심과 반복적인 개선, 그리고 공유에서 나온다고 믿습니다.</sub>
+</p>
 
 <h4 align="center"> ➖ </h4>
 
